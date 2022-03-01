@@ -1,1 +1,1 @@
-# WealthsimpleCaseStudy
+# Wealthsimple Case Study
