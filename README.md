@@ -4,8 +4,8 @@
  
 * Name of company
 
-Wealthsimple
+ Wealthsimple
  
 * When was the company incorporated?
 
-Weatlthsimple was founded in September 2014 
+ Weatlthsimple was founded in September 2014 
